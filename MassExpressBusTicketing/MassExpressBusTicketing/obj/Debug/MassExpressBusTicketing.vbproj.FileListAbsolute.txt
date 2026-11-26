@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\MassExpressBusTicketing\MassExpressBusTicketing\obj\Debug\MassExpressBusTicketing.vbproj.AssemblyReference.cache
+C:\Users\acer\source\repos\MassExpressBusTicketing\MassExpressBusTicketing\obj\Debug\MassExpressBusTicketing.Resources.resources
+C:\Users\acer\source\repos\MassExpressBusTicketing\MassExpressBusTicketing\obj\Debug\MassExpressBusTicketing.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\MassExpressBusTicketing\MassExpressBusTicketing\obj\Debug\MassExpressBusTicketing.vbproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MassExpressBusTicketing\MassExpressBusTicketing\bin\Debug\MassExpressBusTicketing.exe.config
+C:\Users\acer\source\repos\MassExpressBusTicketing\MassExpressBusTicketing\bin\Debug\MassExpressBusTicketing.exe
+C:\Users\acer\source\repos\MassExpressBusTicketing\MassExpressBusTicketing\bin\Debug\MassExpressBusTicketing.pdb
+C:\Users\acer\source\repos\MassExpressBusTicketing\MassExpressBusTicketing\bin\Debug\MassExpressBusTicketing.xml
+C:\Users\acer\source\repos\MassExpressBusTicketing\MassExpressBusTicketing\obj\Debug\MassExpressBusTicketing.exe
+C:\Users\acer\source\repos\MassExpressBusTicketing\MassExpressBusTicketing\obj\Debug\MassExpressBusTicketing.xml
+C:\Users\acer\source\repos\MassExpressBusTicketing\MassExpressBusTicketing\obj\Debug\MassExpressBusTicketing.pdb
